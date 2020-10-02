@@ -5,15 +5,13 @@ With an innate love of writing code to solve complex issues, I has been programm
 
 I attend college at **University of Dhaka**, where I studies **Pure Mathematics**.
 
-## 💬 Connect? <a href="https://twitter.com/emonhossain_dev">
-  <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>   
-<a href="https://www.linkedin.com/in/emon-hossain-9006b816b/">
-  <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>   
-<a href="https://www.instagram.com/emonhossainraihan/">
-  <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+## Connect? 
+
+[![Linkedin](https://img.shields.io/badge/-emonhossainraihan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emonhossainraihan/)](https://www.linkedin.com/in/emonhossainraihan/)
+[![GitHub](https://img.shields.io/github/followers/emonhossainraihan?label=follow&style=social)](https://github.com/emonhossainraihan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/emonhossain_dev?style=social)](https://twitter.com/emonhossain_dev)
+[![Instagram](https://img.shields.io/badge/emonhossainraihan-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/emonhossainraihan/)](https://www.instagram.com/emonhossainraihan/)
+
 
 
 
