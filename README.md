@@ -5,15 +5,13 @@ I develop web applications. My core skill is based on JavaScript and I love to d
 I am an imperfect person looking for perfection in bringing smiles to all of your faces. And, with that, I am a passionate programmer, developer, and learner. Still, an undergraduate student in **Mathematics** at **Dhaka University** also occasionally teaches problem-solving and other fun math to high school students.
 I am looking forward to touching the lives of the people by solving our society's shared struggles. If you are one of those passionate souls looking forward to bringing a change for the community's betterment, do get in touch! :)
 
-### What I love 👉 Machine Learning, Web Development, SEO, Micro Services, System Design 😼
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=emonhossainraihan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=emonhossainraihan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhossainraihan&layout=compact)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhossainraihan&layout=compact) -->
 
 *************
 
-- 🏢 I'm currently working at **Hostabd**
+- 🏢 I'm currently working on **cryptography**
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
@@ -38,22 +36,22 @@ I am looking forward to touching the lives of the people by solving our society'
 - 🌱 Learning all about: Docker, Cloud Orchestration and System Design
 - ⚡️ Fun fact: I love to eat and coding
 
-![Profile views](https://gpvc.arturio.dev/emonhossainraihan)
+<!-- ![Profile views](https://gpvc.arturio.dev/emonhossainraihan) -->
 
-<!--
-![badge-c](https://img.shields.io/badge/Language-C-555555?style=for-the-badge&logo=C) 
-![badge-go](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=Go) 
-![badge-cpp](https://img.shields.io/badge/Language-C++-f34b7d?style=for-the-badge&logo=C%2B%2B) 
-![badge-python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python) 
-![badge-java](https://img.shields.io/badge/Language-Java-b07219?style=for-the-badge&logo=Java) 
-![badge-shell](https://img.shields.io/badge/Language-Shell-89e051?style=for-the-badge&logo=gnu-bash) 
-![badge-js](https://img.shields.io/badge/Language-Javascript-f1e05a?style=for-the-badge&logo=javascript) 
-![badge-powershell](https://img.shields.io/badge/Language-PowerShell-012456?style=for-the-badge&logo=powershell) 
-![badge-c#](https://img.shields.io/badge/Language-C%23-178600?style=for-the-badge&logo=C-Sharp) 
-![badge-asm](https://img.shields.io/badge/Language-Assembly-6E4C13?style=for-the-badge&logo=assembly) 
--->
+You can talk to me about,
+- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, ReactJS, Ant design, Bootstrap**
+- Backend development using **NodeJS, Express**
+- Database stuff using **Prisma, SQlite, MongoDB, MySQL, PostgreSQL**
+- Full stack stuff using **NextJS**
+- Web automation using **Puppeteer**
+- Deployment stuff using **Docker, Kubernetes**
 
-### How to connect with me?
+You can still talk to me about things I am still learning,
+- Languages like **Python**
+- Data structures and algorithms
+- Machine Learning
+
+### connect with me?
 
 [![Linkedin](https://img.shields.io/badge/-emonhossainraihan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emonhossainraihan/)](https://www.linkedin.com/in/emonhossainraihan/)
 [![GitHub](https://img.shields.io/github/followers/emonhossainraihan?label=follow&style=social)](https://github.com/emonhossainraihan)
