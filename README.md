@@ -11,7 +11,7 @@ I am looking forward to touching the lives of the people by solving our society'
 
 *************
 
-- 🏢 I'm currently working on **cryptography**
+- 🏢 I'm currently working on **cryptography**, **machine learning, Cybersecurity**.
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
@@ -49,7 +49,7 @@ You can talk to me about,
 You can still talk to me about things I am still learning,
 - Languages like **Python**
 - Data structures and algorithms
-- Machine Learning
+- Machine Learning, Neutral Network, Deep Learning, Artificial Intelligence 
 
 ### connect with me?
 
