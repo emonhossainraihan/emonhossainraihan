@@ -1,9 +1,10 @@
 ### Hello! I’m Emon Hossain! 👋.  ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
-I develop web applications. My core skill is based on JavaScript and I love to do most the things using JavaScript.
+I develop web applications. My core skill is based on JavaScript and I love to do most things using JavaScript.
 
-I am an imperfect person looking for perfection in bringing smiles to all of your faces. And, with that, I am a passionate programmer, developer, and learner. Still, an undergraduate student in **Mathematics** at **Dhaka University** also occasionally teaches problem-solving and other fun math to high school students.
-I am looking forward to touching the lives of the people by solving our society's shared struggles. If you are one of those passionate souls looking forward to bringing a change for the community's betterment, do get in touch! :)
+I am a passionate programmer, developer, and learner. Still, an undergraduate student in **Mathematics** at **Dhaka University** also occasionally teaches problem-solving and other fun math to high school students. Currently, I join **Brac University** as an Adjunct Lecturer. I teach Linear Algebra and Fourier Analysis there.  
+
+
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=emonhossainraihan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
@@ -14,10 +15,10 @@ I am looking forward to touching the lives of the people by solving our society'
 - 🏢 I'm currently working on **cryptography**, **machine learning, Cybersecurity**.
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
+  ![Node. JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 💻 I work using:
+- 💻 I use monthly:
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
