@@ -2,7 +2,7 @@
 
 I develop web applications. My core skill is based on JavaScript and I love to do most things using JavaScript.
 
-I am a passionate programmer, developer, and learner. Still, an undergraduate student in **Mathematics** at **Dhaka University** also occasionally teaches problem-solving and other fun math to high school students. Currently, I join **Brac University** as an Adjunct Lecturer. I teach Linear Algebra and Fourier Analysis there.  
+I am a passionate programmer, developer, and learner. I am a graduate student in **Mathematics** at **Dhaka University**. I also occasionally teach problem-solving and other fun math to high school students. I joined Brac University** as an Adjunct lecturer this summer. I teach Linear Algebra and Fourier Analysis there.  
 
 
 
